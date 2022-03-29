@@ -17,7 +17,7 @@ class Human(var name:String,var age:Int,var weight:Int,){
         weight+=foodweight
         println("I am eating 7kgs of food")
     }
-    fun speak(speech:String){
+    fun speak(speech:Int){ Seek
         println("The purpose for this event is to empower women in the tech industry")
     }
     fun birthday(){
